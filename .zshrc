@@ -1,4 +1,4 @@
-ch862076@CDLHX2TF6QN7H ~ % cat .zshrc
+
 # Homebrew
 export PATH="${HOME}/brew/bin:${PATH}"
 
@@ -11,4 +11,4 @@ export PATH="${HOME}/brew/opt/neovim/bin:${PATH}"
 # Include user-installed binaries
 export PATH="$HOME/.local/bin:$PATH"
 fastfetch
-ch862076@CDLHX2TF6QN7H ~ % 
+
